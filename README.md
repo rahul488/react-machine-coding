@@ -16,7 +16,7 @@
 # Machine Coding 0
 
 Crate an input where user can give desire timing in minutes and there should be two buttons one is start and another is the plus icon.
-Clickng on start button should start timer and the time should show inside a centered circle(not mandetory) and clicking the plus icon should create another timer instace of current running time and it should be pause and resume functionaliy.
+Clickng on start button should start timer and the time should show inside a centered circle(not mandetory) and clicking the plus icon should create another timer instace of current running time and it should be pause and resume functionality.
 
 # Machine coding 1
 
