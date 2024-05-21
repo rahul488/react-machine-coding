@@ -1,0 +1,155 @@
+{
+  "foods": [
+    {
+      "name": "Fruits",
+      "subCategories": [
+        {
+          "name": "Citrus",
+          "subCategories": [
+            {
+              "name": "Oranges",
+              "subCategories": [
+                {
+                  "name": "Navel Orange"
+                },
+                {
+                  "name": "Blood Orange"
+                }
+              ]
+            },
+            {
+              "name": "Lemons",
+              "subCategories": [
+                {
+                  "name": "Eureka Lemon"
+                },
+                {
+                  "name": "Meyer Lemon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Berries",
+          "subCategories": [
+            {
+              "name": "Strawberries"
+            },
+            {
+              "name": "Blueberries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vegetables",
+      "subCategories": [
+        {
+          "name": "Leafy Greens",
+          "subCategories": [
+            {
+              "name": "Spinach"
+            },
+            {
+              "name": "Kale"
+            }
+          ]
+        },
+        {
+          "name": "Root Vegetables",
+          "subCategories": [
+            {
+              "name": "Carrots"
+            },
+            {
+              "name": "Potatoes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meats",
+      "subCategories": [
+        {
+          "name": "Beef",
+          "subCategories": [
+            {
+              "name": "Steak"
+            },
+            {
+              "name": "Ground Beef"
+            }
+          ]
+        },
+        {
+          "name": "Chicken",
+          "subCategories": [
+            {
+              "name": "Breast"
+            },
+            {
+              "name": "Thigh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dairy",
+      "subCategories": [
+        {
+          "name": "Milk",
+          "subCategories": [
+            {
+              "name": "Whole Milk"
+            },
+            {
+              "name": "Skim Milk"
+            }
+          ]
+        },
+        {
+          "name": "Cheese",
+          "subCategories": [
+            {
+              "name": "Cheddar"
+            },
+            {
+              "name": "Mozzarella"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grains",
+      "subCategories": [
+        {
+          "name": "Wheat",
+          "subCategories": [
+            {
+              "name": "Bread"
+            },
+            {
+              "name": "Pasta"
+            }
+          ]
+        },
+        {
+          "name": "Rice",
+          "subCategories": [
+            {
+              "name": "White Rice"
+            },
+            {
+              "name": "Brown Rice"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

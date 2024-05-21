@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "name":"T-Shirt",
+            "image":"/kid.jpg",
+            "price":"300",
+            "id":"1"
+        },
+        {
+            "name":"Men-T-Shirt",
+            "image":"/men.jpg",
+            "price":"400",
+            "id":"2"
+        },
+        {
+            "name":"Women-T-Shirt",
+            "image":"/women.jpg",
+            "price":"500",
+            "id":"3"
+        },
+        {
+            "name":"Adidas",
+            "image":"/Adidas-Logo.jpg",
+            "price":"700",
+            "id":"4"
+        }
+    ]
+}

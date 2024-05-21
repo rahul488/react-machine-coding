@@ -1,0 +1,769 @@
+{
+  "menus": [
+    {
+      "name": "MEN",
+      "subMenus": [
+        {
+          "name": "FEATURED",
+          "links": [
+            {
+              "name": "New Arrivals",
+              "path": "/new-arrivals"
+            },
+            {
+              "name": "Adidas Sportswear",
+              "path": "/adidas-sportswear"
+            },
+            {
+              "name": "Online Exclusives",
+              "path": "/online-exclusives"
+            }
+          ],
+          "subMenus": [
+            {
+              "name": "Summer Celebration Sale",
+              "links": [
+                {
+                  "name": "Essentials",
+                  "path": "/essentials"
+                },
+                {
+                  "name": "T-Toes",
+                  "path": "/t-toes"
+                },
+                {
+                  "name": "Summer Shop",
+                  "path": "/summer-shop"
+                },
+                {
+                  "name": "Cricket",
+                  "path": "/cricket"
+                }
+              ]
+            }
+          ],
+          "footerMenus": [
+            {
+              "name": "All Men's",
+              "path": "/all-mens"
+            }
+          ]
+        },
+        {
+          "name": "FOOTWEAR",
+          "links": [
+            {
+              "name": "Running",
+              "path": "/running"
+            },
+            {
+              "name": "Walking",
+              "path": "/walking"
+            },
+            {
+              "name": "Running Shoe Finder",
+              "path": "/running-show-finder"
+            },
+            {
+              "name": "Sneakers",
+              "path": "/sneakers"
+            },
+            {
+              "name": "Slides & Sandals",
+              "path": "/slide&Sandals"
+            },
+            {
+              "name": "Gym And Training",
+              "path": "/gym-training"
+            },
+            {
+              "name": "Originals",
+              "path": "/originals"
+            },
+            {
+              "name": "Footbal",
+              "path": "/footbal"
+            },
+            {
+              "name": "Cricket",
+              "path": "/cricket"
+            },
+            {
+              "name": "Basket Ball",
+              "path": "/basket-ball"
+            },
+            {
+              "name": "Tennis",
+              "path": "/tennis"
+            },
+            {
+              "name": "Skateboarding",
+              "path": "/skate-boarding"
+            },
+            {
+              "name": "Swim",
+              "path": "/swim"
+            },
+            {
+              "name": "Hiking & Outdoor",
+              "path": "/hiking"
+            },
+            {
+              "name": "Shoes Under 4999",
+              "path": "/shoes-under-4999"
+            },
+            {
+              "name": "Shoes Under 3000",
+              "path": "/shoes-under-3000"
+            },
+            {
+              "name": "Shoes Under 2000",
+              "path": "/shoes-under-2000"
+            }
+          ],
+          "subMenus": [],
+          "footerMenus": [
+            {
+              "name": "All Men's Footwear",
+              "path": "/all-mens-footwear"
+            }
+          ]
+        },
+        {
+          "name": "CLOTHING",
+          "links": [
+            {
+              "name": "T-Shirts & Tank-Tops",
+              "path": "/t-shirts&tank-tops"
+            },
+            {
+              "name": "Joggers & Track Pants",
+              "path": "/joggers&trackPants"
+            },
+            {
+              "name": "Footbal Jerseys & T-Shirts",
+              "path": "/footbalJerseys"
+            },
+            {
+              "name": "Cricket Jerseys & Pants",
+              "path": "/cricketJersseys"
+            },
+            {
+              "name": "Swimwear",
+              "path": "/swimwear"
+            },
+            {
+              "name": "Jackets",
+              "path": "/jackets"
+            },
+            {
+              "name": "Sweatshirts",
+              "path": "/sweatshirts"
+            },
+            {
+              "name": "Tracksuits",
+              "path": "/tracksuits"
+            },
+            {
+              "name": "Hoodies",
+              "path": "/hoodies"
+            },
+            {
+              "name": "Clothing under 3999",
+              "path": "/clothing-under-3999"
+            },
+            {
+              "name": "Clothing under 2899",
+              "path": "/clothing-under-2899"
+            }
+          ],
+          "subMenus": [],
+          "footerMenus": [
+            {
+              "name": "All Men's Clothing",
+              "path": "/all-mens-clothing"
+            }
+          ]
+        },
+        {
+          "name": "ACCESSORIES",
+          "links": [
+            {
+              "name": "Socks",
+              "path": "/socks"
+            },
+            {
+              "name": "Gloves",
+              "path": "/gloves"
+            },
+            {
+              "name": "Headwear",
+              "path": "/headwear"
+            },
+            {
+              "name": "All Bags",
+              "path": "/all-bags"
+            },
+            {
+              "name": "Backpacks",
+              "path": "/backpacks"
+            },
+            {
+              "name": "Gym & Training Bags",
+              "path": "/gym-bags"
+            },
+            {
+              "name": "Balls",
+              "path": "/balls"
+            },
+            {
+              "name": "Face Covers",
+              "path": "/face-covers"
+            }
+          ],
+          "subMenus": [],
+          "footerMenus": [
+            {
+              "name": "All Men's Accessories",
+              "path": "/all-mens-accessories"
+            }
+          ]
+        },
+        {
+          "name": "SPORTS",
+          "links": [
+            {
+              "name": "Running",
+              "path": "/running"
+            },
+            {
+              "name": "Gym & Training",
+              "path": "/training"
+            },
+            {
+              "name": "Football",
+              "path": "/footbal"
+            },
+            {
+              "name": "CRICKET",
+              "path": "/cricket"
+            },
+            {
+              "name": "Tennis",
+              "path": "/tennis"
+            },
+            {
+              "name": "Basketball",
+              "path": "/online-exclusives"
+            },
+            {
+              "name": "Hiking & Outedoor",
+              "path": "/online-exclusives"
+            },
+            {
+              "name": "Swim",
+              "path": "/swim"
+            },
+            {
+              "name": "Skateboarding",
+              "path": "/skate-boarding"
+            },
+            {
+              "name": "Golf",
+              "path": "/golf"
+            },
+            {
+              "name": "Yoga",
+              "path": "/yoga"
+            },
+            {
+              "name": "Walking",
+              "path": "/walking"
+            }
+          ],
+          "subMenus": [
+            {
+              "name": "SUSTAINABLE MATERIALS",
+              "links": [
+                {
+                  "name": "Made With Recycled Material",
+                  "path": "/recycle-material"
+                },
+                {
+                  "name": "Vegan",
+                  "path": "/vegan"
+                },
+                {
+                  "name": "Organic Cotton",
+                  "path": "/organic-cotton"
+                }
+              ]
+            }
+          ],
+          "footerMenus": [
+            {
+              "name": "Men's All Sustainable",
+              "path": "/mens-all-sustainalbe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WOMEN",
+      "subMenus": [
+        {
+          "name": "FEATURED",
+          "links": [
+            {
+              "name": "New Arrivals",
+              "path": "/new-arrivals"
+            },
+            {
+              "name": "Sport Bra Guide",
+              "path": "/sports-bra-guide"
+            },
+            {
+              "name": "Online Exclusives",
+              "path": "/online-exclusives"
+            }
+          ],
+          "subMenus": [
+            {
+              "name": "Summer Celebration Sale",
+              "links": [
+                {
+                  "name": "Essentials",
+                  "path": "/essentials"
+                },
+                {
+                  "name": "T-Toes",
+                  "path": "/t-toes"
+                },
+                {
+                  "name": "Summer Shop",
+                  "path": "/summer-shop"
+                },
+                {
+                  "name": "Cricket",
+                  "path": "/cricket"
+                }
+              ]
+            }
+          ],
+          "footerMenus": [
+            {
+              "name": "All Women's",
+              "path": "/all-womens"
+            }
+          ]
+        },
+        {
+          "name": "FOOTWEAR",
+          "links": [
+            {
+              "name": "Running",
+              "path": "/running"
+            },
+            {
+              "name": "Walking",
+              "path": "/walking"
+            },
+            {
+              "name": "Running Shoe Finder",
+              "path": "/running-show-finder"
+            },
+            {
+              "name": "Sneakers",
+              "path": "/sneakers"
+            },
+            {
+              "name": "Slides & Flip-Flops",
+              "path": "/slide-flip-flops"
+            },
+            {
+              "name": "Gym And Training",
+              "path": "/gym-training"
+            },
+            {
+              "name": "Originals",
+              "path": "/originals"
+            },
+            {
+              "name": "Footbal",
+              "path": "/footbal"
+            },
+            {
+              "name": "Basket Ball",
+              "path": "/basket-ball"
+            },
+            {
+              "name": "Swim",
+              "path": "/swim"
+            },
+            {
+              "name": "Shoes Under 5299",
+              "path": "/shoes-under-5299"
+            },
+            {
+              "name": "Shoes Under 3000",
+              "path": "/shoes-under-3000"
+            },
+            {
+              "name": "Shoes Under 2000",
+              "path": "/shoes-under-2000"
+            }
+          ],
+          "subMenus": [],
+          "footerMenus": [
+            {
+              "name": "All Women's Footwear",
+              "path": "/all-Womens-footwear"
+            }
+          ]
+        },
+        {
+          "name": "CLOTHING",
+          "links": [
+            {
+              "name": "T-Shirts & Tops",
+              "path": "/t-shirts-tops"
+            },
+            {
+              "name": "Tights & Leggings",
+              "path": "/tights-leggings"
+            },
+            {
+              "name": "Skirts & Dresses",
+              "path": "/skirts-dresses"
+            },
+            {
+              "name": "Sport Bra Guide",
+              "path": "/sport-bra-guide"
+            },
+            {
+              "name": "Originals",
+              "path": "/cricketJersseys"
+            },
+            {
+              "name": "Cricket Jerseys & Pants",
+              "path": "/cricket-jersseys-pants"
+            },
+            {
+              "name": "Joggers & Track Pants",
+              "path": "/joggers-track-pants"
+            },
+            {
+              "name": "Swimwear",
+              "path": "/swimwear"
+            },
+            {
+              "name": "Jackets",
+              "path": "/jackets"
+            },
+            {
+              "name": "Sweatshirts",
+              "path": "/sweatshirts"
+            },
+            {
+              "name": "Tracksuits",
+              "path": "/tracksuits"
+            },
+            {
+              "name": "Hoodies",
+              "path": "/hoodies"
+            },
+            {
+              "name": "Clothing under 2599",
+              "path": "/clothing-under-2599"
+            },
+            {
+              "name": "Clothing under 2000",
+              "path": "/clothing-under-2000"
+            }
+          ],
+          "subMenus": [],
+          "footerMenus": [
+            {
+              "name": "All Womens's Clothing",
+              "path": "/all-Womens-clothing"
+            }
+          ]
+        },
+        {
+          "name": "ACCESSORIES",
+          "links": [
+            {
+              "name": "Socks",
+              "path": "/socks"
+            },
+            {
+              "name": "Gloves & Scarves",
+              "path": "/gloves-scarves"
+            },
+            {
+              "name": "Headwear",
+              "path": "/headwear"
+            },
+            {
+              "name": "All Bags",
+              "path": "/all-bags"
+            },
+            {
+              "name": "Backpacks",
+              "path": "/backpacks"
+            },
+            {
+              "name": "Gym & Training Bags",
+              "path": "/gym-bags"
+            },
+            {
+              "name": "Shoulder Bags",
+              "path": "/shoulder-bags"
+            },
+            {
+              "name": "Balls",
+              "path": "/balls"
+            },
+            {
+              "name": "Face Covers",
+              "path": "/face-covers"
+            }
+          ],
+          "subMenus": [],
+          "footerMenus": [
+            {
+              "name": "All Women's Accessories",
+              "path": "/all-Women-accessories"
+            }
+          ]
+        },
+        {
+          "name": "SPORTS",
+          "links": [
+            {
+              "name": "Running",
+              "path": "/running"
+            },
+            {
+              "name": "Gym & Training",
+              "path": "/training"
+            },
+            {
+              "name": "Football",
+              "path": "/footbal"
+            },
+            {
+              "name": "CRICKET",
+              "path": "/cricket"
+            },
+            {
+              "name": "Tennis",
+              "path": "/tennis"
+            },
+            {
+              "name": "Basketball",
+              "path": "/online-exclusives"
+            },
+            {
+              "name": "Hiking & Outedoor",
+              "path": "/online-exclusives"
+            },
+            {
+              "name": "Swim",
+              "path": "/swim"
+            },
+            {
+              "name": "Golf",
+              "path": "/golf"
+            },
+            {
+              "name": "Yoga",
+              "path": "/yoga"
+            },
+            {
+              "name": "Walking",
+              "path": "/walking"
+            }
+          ],
+          "subMenus": [
+            {
+              "name": "SUSTAINABLE MATERIALS",
+              "links": [
+                {
+                  "name": "Made With Recycled Material",
+                  "path": "/recycle-material"
+                },
+                {
+                  "name": "Vegan",
+                  "path": "/vegan"
+                },
+                {
+                  "name": "Organic Cotton",
+                  "path": "/organic-cotton"
+                }
+              ]
+            }
+          ],
+          "footerMenus": [
+            {
+              "name": "Women's All Sustainable",
+              "path": "/Womens-all-sustainalbe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KIDS",
+      "subMenus": [
+        {
+          "name": "FEATURED",
+          "links": [
+            {
+              "name": "LEGO®️",
+              "path": "/lego"
+            },
+            {
+              "name": "Online Exclusives",
+              "path": "/online-exclusives"
+            }
+          ],
+          "subMenus": [
+            {
+              "name": "Summer Celebration Sale",
+              "links": [
+                {
+                  "name": "Essentials",
+                  "path": "/essentials"
+                },
+                {
+                  "name": "T-Toes",
+                  "path": "/t-toes"
+                },
+                {
+                  "name": "Summer Shop",
+                  "path": "/summer-shop"
+                },
+                {
+                  "name": "Cricket",
+                  "path": "/cricket"
+                },
+                {
+                  "name": "Football",
+                  "path": "/football"
+                },
+                {
+                  "name": "Sportswear",
+                  "path": "/sportswear"
+                }
+              ]
+            }
+          ],
+          "footerMenus": [
+            {
+              "name": "All Kids",
+              "path": "/all-kids"
+            }
+          ]
+        },
+        {
+          "name": "YOUTH 8-16 YEARS",
+          "links": [
+            {
+              "name": "Boyes Shoes",
+              "path": "/boyes-shoes"
+            },
+            {
+              "name": "Girls Shoes",
+              "path": "/girls-shoes"
+            },
+            {
+              "name": "Boy's Clothing",
+              "path": "/boys-clothing"
+            },
+            {
+              "name": "Girl's Clothing",
+              "path": "/girls-clothing"
+            },
+            {
+              "name": "Accessories",
+              "path": "/accessories"
+            }
+          ],
+          "subMenus": [],
+          "footerMenus": [
+            {
+              "name": "All Youth",
+              "path": "/all-youth"
+            }
+          ]
+        },
+        {
+          "name": "KIDS 4-8 YEARS",
+          "links": [
+            {
+              "name": "Boyes Shoes",
+              "path": "/boyes-shoes"
+            },
+            {
+              "name": "Girls Shoes",
+              "path": "/girls-shoes"
+            },
+            {
+              "name": "Boy's Clothing",
+              "path": "/boys-clothing"
+            },
+            {
+              "name": "Girl's Clothing",
+              "path": "/girls-clothing"
+            },
+            {
+              "name": "Accessories",
+              "path": "/accessories"
+            }
+          ],
+          "subMenus": [],
+          "footerMenus": [
+            {
+              "name": "All Kids",
+              "path": "/all-kids"
+            }
+          ]
+        },
+        {
+          "name": "TODDLERS 0-4 YEARS",
+          "links": [
+            {
+              "name": "Shoes",
+              "path": "/shoes"
+            },
+            {
+              "name": "Clothing",
+              "path": "/clothing"
+            }
+          ],
+          "subMenus": [],
+          "footerMenus": [
+            {
+              "name": "All Toddlers",
+              "path": "/all-toddlers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SPORTS",
+      "subMenus": []
+    },
+    {
+      "name": "LIFESTYLE",
+      "subMenus": []
+    },
+    {
+      "name": "OUTLET",
+      "subMenus": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "boxesData": [
+    {
+      "id": 1,
+      "isClicked": false,
+      "isVisible": true,
+      "background": "yellow"
+    },
+    {
+      "id": 2,
+      "isClicked": false,
+      "isVisible": true,
+      "background": "yellow"
+    },
+    {
+      "id": 3,
+      "isClicked": false,
+      "isVisible": true,
+      "background": "yellow"
+    },
+    {
+      "id": 4,
+      "isClicked": false,
+      "isVisible": true,
+      "background": "yellow"
+    },
+    {
+      "id": 5,
+      "isClicked": false,
+      "isVisible": false,
+      "background": "yellow"
+    },
+    {
+      "id": 6,
+      "isVisible": false,
+      "isClicked": false,
+      "background": "yellow"
+    },
+    {
+      "id": 7,
+      "isClicked": false,
+      "isVisible": true,
+      "background": "yellow"
+    },
+    {
+      "id": 8,
+      "isClicked": false,
+      "isVisible": true,
+      "background": "yellow"
+    },
+    {
+      "id": 9,
+      "isClicked": false,
+      "isVisible": true,
+      "background": "yellow"
+    }
+  ]
+}
